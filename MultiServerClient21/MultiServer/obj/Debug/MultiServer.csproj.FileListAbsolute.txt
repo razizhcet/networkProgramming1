@@ -1,0 +1,6 @@
+E:\BizRun.NET\c#.net-programs\MultiServerClient21\MultiServer\bin\Debug\MultiServer.exe.config
+E:\BizRun.NET\c#.net-programs\MultiServerClient21\MultiServer\bin\Debug\MultiServer.exe
+E:\BizRun.NET\c#.net-programs\MultiServerClient21\MultiServer\bin\Debug\MultiServer.pdb
+E:\BizRun.NET\c#.net-programs\MultiServerClient21\MultiServer\obj\Debug\MultiServer.csprojResolveAssemblyReference.cache
+E:\BizRun.NET\c#.net-programs\MultiServerClient21\MultiServer\obj\Debug\MultiServer.exe
+E:\BizRun.NET\c#.net-programs\MultiServerClient21\MultiServer\obj\Debug\MultiServer.pdb

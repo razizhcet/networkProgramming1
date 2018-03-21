@@ -1,0 +1,6 @@
+E:\BizRun.NET\c#.net-programs\SingleServerAndClient\Client\bin\Debug\Client.exe.config
+E:\BizRun.NET\c#.net-programs\SingleServerAndClient\Client\bin\Debug\Client.exe
+E:\BizRun.NET\c#.net-programs\SingleServerAndClient\Client\bin\Debug\Client.pdb
+E:\BizRun.NET\c#.net-programs\SingleServerAndClient\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\BizRun.NET\c#.net-programs\SingleServerAndClient\Client\obj\Debug\Client.exe
+E:\BizRun.NET\c#.net-programs\SingleServerAndClient\Client\obj\Debug\Client.pdb

@@ -1,0 +1,2 @@
+E:\BizRun.NET\c#.net-programs\ChatServerClient\Server\bin\Debug\Server.exe.config
+E:\BizRun.NET\c#.net-programs\ChatServerClient\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache

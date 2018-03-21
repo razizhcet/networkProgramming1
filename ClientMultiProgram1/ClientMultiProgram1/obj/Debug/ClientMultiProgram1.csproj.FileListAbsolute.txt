@@ -1,0 +1,5 @@
+E:\BizRun.NET\c#.net-programs\ClientMultiProgram1\ClientMultiProgram1\bin\Debug\ClientMultiProgram1.exe.config
+E:\BizRun.NET\c#.net-programs\ClientMultiProgram1\ClientMultiProgram1\bin\Debug\ClientMultiProgram1.exe
+E:\BizRun.NET\c#.net-programs\ClientMultiProgram1\ClientMultiProgram1\bin\Debug\ClientMultiProgram1.pdb
+E:\BizRun.NET\c#.net-programs\ClientMultiProgram1\ClientMultiProgram1\obj\Debug\ClientMultiProgram1.exe
+E:\BizRun.NET\c#.net-programs\ClientMultiProgram1\ClientMultiProgram1\obj\Debug\ClientMultiProgram1.pdb

@@ -1,0 +1,5 @@
+E:\BizRun.NET\c#.net-programs\MultiServerClient21\MultiClient\bin\Debug\MultiClient.exe.config
+E:\BizRun.NET\c#.net-programs\MultiServerClient21\MultiClient\bin\Debug\MultiClient.exe
+E:\BizRun.NET\c#.net-programs\MultiServerClient21\MultiClient\bin\Debug\MultiClient.pdb
+E:\BizRun.NET\c#.net-programs\MultiServerClient21\MultiClient\obj\Debug\MultiClient.exe
+E:\BizRun.NET\c#.net-programs\MultiServerClient21\MultiClient\obj\Debug\MultiClient.pdb
